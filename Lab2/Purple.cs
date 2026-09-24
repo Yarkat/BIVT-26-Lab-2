@@ -91,7 +91,7 @@ return q;
         public int Task5(int a, int b)
         {
             int answer = 0;
-
+long number = a;
             // code here
 while(b>0)
 {
